@@ -1,0 +1,4 @@
+.DS_Store
+packaging/vendor/
+packaging/traveling-ruby-*.tar.gz
+output/
